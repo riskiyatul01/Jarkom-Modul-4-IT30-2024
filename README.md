@@ -6,6 +6,10 @@
 |Riskiyatul Nur Oktarani | 5027231013 |
 |Malvin Putra Rismahardian | 5027231048 |
 
+# Topologi
+
+![image](https://github.com/user-attachments/assets/9c70c135-5614-448b-80fd-5e970a08f964)
+
 # Routing table
 
 ![image](https://github.com/user-attachments/assets/0a327849-40b0-4277-8b69-bcf0b9c924db)
