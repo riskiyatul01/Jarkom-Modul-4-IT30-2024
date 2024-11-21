@@ -8,7 +8,8 @@
 
 # Topologi
 
-![image](https://github.com/user-attachments/assets/9c70c135-5614-448b-80fd-5e970a08f964)
+![image](https://github.com/user-attachments/assets/5031dd7d-fa68-4feb-ba06-64b692afd18d)
+
 
 # Routing table
 
