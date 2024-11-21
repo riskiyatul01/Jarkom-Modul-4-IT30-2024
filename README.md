@@ -1,10 +1,14 @@
-# Jarkom-Modul-2-IT30-2024
+# Jarkom-Modul-4-IT30-2024
 
 **KELOMPOK IT30**
 | Nama | NRP |
 |---------------------------|------------|
 |Riskiyatul Nur Oktarani | 5027231013 |
 |Malvin Putra Rismahardian | 5027231048 |
+
+# Routing table
+
+![image](https://github.com/user-attachments/assets/0a327849-40b0-4277-8b69-bcf0b9c924db)
 
 
 # Hololive (Gateway)
